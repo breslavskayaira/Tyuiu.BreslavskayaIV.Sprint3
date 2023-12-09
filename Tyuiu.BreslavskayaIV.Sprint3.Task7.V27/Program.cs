@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Lib;
+using Tyuiu.BreslavskayaIV.Sprint3.Task7.V23.Lib;
 
-namespace Tyuiu.BreslavskayaIV.Sprint3.Task7.V27
+namespace Tyuiu.BreslavskayaIV.Sprint3.Task7.V23
 {
     class Program
     {
@@ -14,9 +14,9 @@ namespace Tyuiu.BreslavskayaIV.Sprint3.Task7.V27
             Console.Title = "Спринт #2 | Выполнила: Бреславская И. В. | ПКТб-23-2";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #3                                                                *");
-            Console.WriteLine("* Тема: обавление к решению итоговых проектов по спринту                   *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                  *");
             Console.WriteLine("* Задание #7                                                               *");
-            Console.WriteLine("* Вариант #27                                                              *");
+            Console.WriteLine("* Вариант #23                                                              *");
             Console.WriteLine("* Выполнила: Бреславская И. В. | ПКТб-23-2                                 *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
@@ -25,6 +25,7 @@ namespace Tyuiu.BreslavskayaIV.Sprint3.Task7.V27
             Console.WriteLine("*                                                                          *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
+            Console.WriteLine("* y = 4-2x+(2+cos(x))/(2x-2)                                               *");
             Console.WriteLine("****************************************************************************");
 
 
@@ -53,7 +54,7 @@ namespace Tyuiu.BreslavskayaIV.Sprint3.Task7.V27
 
             for (int i = 0; i<=len-1; i++)
             {
-                Console.WriteLine("|        {0,5:d}        |       {1, 5:f2}       |", startValue, valueArray[i]);
+                Console.WriteLine("|        {0,5:d}        |        {1, 5:f2}        |", startValue, valueArray[i]);
                 startValue++;
             }
             Console.WriteLine("+---------------------+---------------------+");

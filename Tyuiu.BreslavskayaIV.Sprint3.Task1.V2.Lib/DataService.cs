@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Lib
+namespace Tyuiu.BreslavskayaIV.Sprint3.Task1.V4.Lib
 {
-    public class DataService : ISprint3Task1V2
+    public class DataService : ISprint3Task1V4
     {
         public double GetSumSeries(int startValue, int stopValue)
         {
@@ -15,7 +15,7 @@ namespace Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Lib
             
             while  (startValue <= stopValue)
             {
-                sum = sum + Math.Sin(startValue)*0.5;
+                sum = sum + 1/Math.Pow(startValue, 2);
                 startValue++;
             }
 

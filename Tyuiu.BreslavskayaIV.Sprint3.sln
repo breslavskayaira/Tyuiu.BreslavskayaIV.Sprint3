@@ -3,37 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18", "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18\Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.csproj", "{8F948C45-1BDB-44BF-A215-EBD4CBC0AEA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task0.V3", "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18\Tyuiu.BreslavskayaIV.Sprint3.Task0.V3.csproj", "{8F948C45-1BDB-44BF-A215-EBD4CBC0AEA7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{C751C1E3-BF1A-490C-BE98-388F53D55E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Lib.csproj", "{B456397B-BDF4-4119-A13C-D3095E3D0FD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task0.V3.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task0.V3.Lib.csproj", "{B456397B-BDF4-4119-A13C-D3095E3D0FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Test\Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Test.csproj", "{B8178C18-B5B0-4920-978E-EE4242C532D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task0.V3.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task0.V18.Test\Tyuiu.BreslavskayaIV.Sprint3.Task0.V3.Test.csproj", "{B8178C18-B5B0-4920-978E-EE4242C532D7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{A4301905-7CD3-4A83-94B2-E823BBA6E6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2", "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2\Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.csproj", "{5B158659-2FBE-4217-A2FD-D68FB277EE5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task1.V4", "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2\Tyuiu.BreslavskayaIV.Sprint3.Task1.V4.csproj", "{5B158659-2FBE-4217-A2FD-D68FB277EE5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Lib.csproj", "{101E6B92-2478-4B8D-A549-851C82CFCB94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task1.V4.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task1.V4.Lib.csproj", "{101E6B92-2478-4B8D-A549-851C82CFCB94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Test\Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Test.csproj", "{E29B7A90-8C6D-462A-9B46-926C1A5589CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task1.V4.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task1.V2.Test\Tyuiu.BreslavskayaIV.Sprint3.Task1.V4.Test.csproj", "{E29B7A90-8C6D-462A-9B46-926C1A5589CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{1BA6C534-3CA8-4109-86C6-A41B4F997FCB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{A8EE18B7-EBB8-4C5E-A9BA-52B4504AF8F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19", "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19\Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.csproj", "{F336D005-462A-469A-8F67-C0DEF42CFF6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task2.V28", "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19\Tyuiu.BreslavskayaIV.Sprint3.Task2.V28.csproj", "{F336D005-462A-469A-8F67-C0DEF42CFF6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Lib.csproj", "{E262CF65-0DEC-48AA-BB56-5096A985D6DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task2.V28.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task2.V28.Lib.csproj", "{E262CF65-0DEC-48AA-BB56-5096A985D6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Test\Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Test.csproj", "{4CF9D580-B499-4860-BD1E-7E74C7122C57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task2.V28.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Test\Tyuiu.BreslavskayaIV.Sprint3.Task2.V28.Test.csproj", "{4CF9D580-B499-4860-BD1E-7E74C7122C57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15", "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15\Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.csproj", "{E17BB3A0-BED3-44A4-A9A3-B11E776D3A43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task3.V26", "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15\Tyuiu.BreslavskayaIV.Sprint3.Task3.V26.csproj", "{E17BB3A0-BED3-44A4-A9A3-B11E776D3A43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib.csproj", "{7DAE11BE-1084-4C14-9883-4D5A22FBC836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task3.V26.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task3.V26.Lib.csproj", "{7DAE11BE-1084-4C14-9883-4D5A22FBC836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Test\Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Test.csproj", "{8397F3C3-9F56-499D-B8D1-321DA7F5F55B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task3.V26.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Test\Tyuiu.BreslavskayaIV.Sprint3.Task3.V26.Test.csproj", "{8397F3C3-9F56-499D-B8D1-321DA7F5F55B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{3FC185C6-EEF8-458C-8725-A9B43A5395CE}"
 EndProject
@@ -43,29 +43,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{F569FE61
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{485EA9B9-89B9-4A18-94C8-18432E438106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25", "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25\Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.csproj", "{F403CDA2-8BDF-4DEF-B3E3-4965A73E8E23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task4.V9", "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25\Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.csproj", "{F403CDA2-8BDF-4DEF-B3E3-4965A73E8E23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib.csproj", "{BEC17947-38E6-43DB-914D-E2258BCC3552}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Lib.csproj", "{BEC17947-38E6-43DB-914D-E2258BCC3552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Test\Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Test.csproj", "{B5AF8107-5F84-4C15-8BA2-E337458AFE44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Test\Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Test.csproj", "{B5AF8107-5F84-4C15-8BA2-E337458AFE44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20", "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20\Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.csproj", "{9EF69666-8AD9-4757-8CC4-9B1117A115F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task5.V12", "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20\Tyuiu.BreslavskayaIV.Sprint3.Task5.V12.csproj", "{9EF69666-8AD9-4757-8CC4-9B1117A115F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Lib.csproj", "{F46A05CC-A659-4F97-9C44-9AA51DA051C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task5.V12.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task5.V12.Lib.csproj", "{F46A05CC-A659-4F97-9C44-9AA51DA051C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Test\Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Test.csproj", "{B3A7A70B-F4D0-49B1-BA86-8023128CC14F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task5.V12.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task5.V20.Test\Tyuiu.BreslavskayaIV.Sprint3.Task5.V12.Test.csproj", "{B3A7A70B-F4D0-49B1-BA86-8023128CC14F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2", "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2\Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.csproj", "{3AA45ADF-F464-4978-B4ED-2FF7513FC0FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task6.V3", "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2\Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.csproj", "{3AA45ADF-F464-4978-B4ED-2FF7513FC0FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Lib.csproj", "{B4AF4CA7-DE94-4DE6-A455-50FA46CAA38E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.Lib.csproj", "{B4AF4CA7-DE94-4DE6-A455-50FA46CAA38E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Test\Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Test.csproj", "{91DF2D5E-DE49-4A2A-BD13-63EE6556BC31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Test\Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.Test.csproj", "{91DF2D5E-DE49-4A2A-BD13-63EE6556BC31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27", "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27\Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.csproj", "{2FC7B14F-F5F3-4AB5-9B03-7BF7760A3125}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task7.V23", "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27\Tyuiu.BreslavskayaIV.Sprint3.Task7.V23.csproj", "{2FC7B14F-F5F3-4AB5-9B03-7BF7760A3125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Lib.csproj", "{8B1B03DA-A98D-4DF7-AC23-2C01A7475EFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task7.V23.Lib", "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task7.V23.Lib.csproj", "{8B1B03DA-A98D-4DF7-AC23-2C01A7475EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Test\Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Test.csproj", "{ED89E71E-9148-4A48-85E4-DC4E39CCAF44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BreslavskayaIV.Sprint3.Task7.V23.Test", "Tyuiu.BreslavskayaIV.Sprint3.Task7.V27.Test\Tyuiu.BreslavskayaIV.Sprint3.Task7.V23.Test.csproj", "{ED89E71E-9148-4A48-85E4-DC4E39CCAF44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,17 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyuiu.BreslavskayaIV.Sprint3.Task2.V19.Lib
+namespace Tyuiu.BreslavskayaIV.Sprint3.Task2.V28.Lib
 {
-    public class DataService : ISprint3Task2V19
+    public class DataService : ISprint3Task2V28
     {
-        public double GetSumSeries(int startValue, int stopValue)
+        public double GetMultiplySeries(int startValue, int stopValue)
         {
-            double sum = 0.0;
+            double sum = 1.0;
 
             do
             {
-                sum = sum + Math.Cos(startValue) * 0.5;
+                sum = sum * Math.Cos(1.8) * Math.Pow(2,startValue)/(startValue+1);
                 startValue++;
             } while (startValue <= stopValue);
 

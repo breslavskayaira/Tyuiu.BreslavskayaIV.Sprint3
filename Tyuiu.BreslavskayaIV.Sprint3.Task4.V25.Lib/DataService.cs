@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib
+namespace Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Lib
 {
-    public class DataService : ISprint3Task4V25
+    public class DataService : ISprint3Task4V9
     {
         public double Calculate(int startValue, int stopValue)
         {
-            double Mul = 0;
+            double Mul = 1.0;
             for (int i = startValue; i <= stopValue; i++)
             {
                 if (i == 0)
@@ -20,7 +20,7 @@ namespace Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib
                 }
                 else
                 {
-                    Mul = Mul + i/(Math.Cos(i)-Math.Sin(i));
+                    Mul = Mul * i/(Math.Cos(i)-i);
                 }
                 
             }

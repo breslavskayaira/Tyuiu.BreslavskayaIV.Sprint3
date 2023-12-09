@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8397F3C3-9F56-499D-B8D1-321DA7F5F55B}</ProjectGuid>
+    <ProjectGuid>{B5AF8107-5F84-4C15-8BA2-E337458AFE44}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Test</RootNamespace>
-    <AssemblyName>Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Test</AssemblyName>
+    <RootNamespace>Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Test</RootNamespace>
+    <AssemblyName>Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib.csproj">
-      <Project>{7dae11be-1084-4c14-9883-4d5a22fbc836}</Project>
-      <Name>Tyuiu.BreslavskayaIV.Sprint3.Task3.V15.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.BreslavskayaIV.Sprint3.Task4.V25.Lib\Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Lib.csproj">
+      <Project>{bec17947-38e6-43db-914d-e2258bcc3552}</Project>
+      <Name>Tyuiu.BreslavskayaIV.Sprint3.Task4.V9.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

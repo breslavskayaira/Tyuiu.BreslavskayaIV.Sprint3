@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Lib;
+using Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.Lib;
 
-namespace Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Test
+namespace Tyuiu.BreslavskayaIV.Sprint3.Task6.V3.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -13,12 +13,12 @@ namespace Tyuiu.BreslavskayaIV.Sprint3.Task6.V2.Test
         {
             DataService ds = new DataService();
 
-            int startValue = 12;
-            int stopValue = 18;
+            int startValue = 13;
+            int stopValue = 19;
 
             int res = ds.GetSumTheDivisors(startValue, stopValue);
 
-            int wait = 29;
+            int wait = 121;
             Assert.AreEqual(wait, res);
         }
     }

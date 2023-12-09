@@ -3,28 +3,43 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tyuiu.BreslavskayaIV.Sprint3.Task3.V26.Lib;
 
-namespace Tyuiu.BreslavskayaIV.Sprint3.Task3.V15
+namespace Tyuiu.BreslavskayaIV.Sprint3.Task3.V26
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double s0 = 0;
-            double s1 = 0;
-            int x = 2;
-            for (int j = 1; j<=3; j++)
-            {
-                for (int k = 1; k<=3; k++)
-                {
-                    s0 = 3 * k * x;
-                    s1 += s0;
+            Console.Title = "Спринт #2 | Выполнила: Бреславская И. В. | ПКТб-23-2";
+            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("* Спринт #3                                                                *");
+            Console.WriteLine("* Тема: Оператор цикла do-while                                            *");
+            Console.WriteLine("* Задание #3                                                               *");
+            Console.WriteLine("* Вариант #26                                                              *");
+            Console.WriteLine("* Выполнила: Бреславская И. В. | ПКТб-23-2                                 *");
+            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("* УСЛОВИЕ:                                                                 *");
+            Console.WriteLine("* Используя цикл foreach подсчитать количество букв “e” в строке:          *");
+            Console.WriteLine("* have a nice time                                                         *");
+            Console.WriteLine("*                                                                          *");
+            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
+            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("* have a nice time                                                         *");
+            string value = "have a nice time";
+            char item = 'e';
 
-                }
-            }
-            Console.WriteLine(Math.Round(s1, 3));
+
+            DataService ds = new DataService();
+            int res = ds.GetCharCount(value, item);
+
+            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
+            Console.WriteLine("****************************************************************************");
+
+            Console.WriteLine(res);
             Console.ReadKey();
         }
-
     }
 }
